@@ -1,0 +1,340 @@
+fileFormatVersion: 2
+guid: aa7723de922f15a4c94a503fffd86b23
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6330077060157389541
+    second: Projectile Deflection Barrier_0
+  - first:
+      213: -7223038688408312869
+    second: Projectile Deflection Barrier_1
+  - first:
+      213: -636484002797832450
+    second: Projectile Deflection Barrier_2
+  - first:
+      213: -6616564090287484421
+    second: Projectile Deflection Barrier_3
+  - first:
+      213: 3165948163788554065
+    second: Projectile Deflection Barrier_4
+  - first:
+      213: -4755524010131729483
+    second: Projectile Deflection Barrier_5
+  - first:
+      213: 1777543564108198083
+    second: Projectile Deflection Barrier_6
+  - first:
+      213: -7960817773134480321
+    second: Projectile Deflection Barrier_7
+  - first:
+      213: -5476226206497385401
+    second: Projectile Deflection Barrier_8
+  - first:
+      213: 1406781633270842347
+    second: Projectile Deflection Barrier_9
+  - first:
+      213: -5757106233999767473
+    second: Projectile Deflection Barrier_10
+  - first:
+      213: 792699068969560963
+    second: Projectile Deflection Barrier_11
+  - first:
+      213: 6307082455706143114
+    second: Projectile Deflection Barrier_12
+  - first:
+      213: 4424963668330750901
+    second: Projectile Deflection Barrier_13
+  - first:
+      213: -6375737087043059770
+    second: Projectile Deflection Barrier_14
+  - first:
+      213: 6389943391868416719
+    second: Projectile Deflection Barrier_15
+  - first:
+      213: -393122132240616584
+    second: Projectile Deflection Barrier_16
+  - first:
+      213: -7128850984331359508
+    second: Projectile Deflection Barrier_17
+  - first:
+      213: -3432776678465910
+    second: Projectile Deflection Barrier_18
+  - first:
+      213: 3581120677995199282
+    second: Projectile Deflection Barrier_19
+  - first:
+      213: -5270327560529528232
+    second: Projectile Deflection Barrier_20
+  - first:
+      213: -7536811585345496610
+    second: Projectile Deflection Barrier_21
+  - first:
+      213: 8546484157083396771
+    second: Projectile Deflection Barrier_22
+  - first:
+      213: -9165211780530299137
+    second: Projectile Deflection Barrier_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Projectile Deflection Barrier_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eab78b4c83f8d750800000000000000
+      internalID: 6330077060157389541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile Deflection Barrier_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3e48a059c92cb90800000000000000
+      internalID: -7223038688408312869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile Deflection Barrier_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef63404fb21ca27f0800000000000000
+      internalID: -636484002797832450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile Deflection Barrier_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf11fc4140e3d24a0800000000000000
+      internalID: -6616564090287484421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile Deflection Barrier_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15fbaefb415bfeb20800000000000000
+      internalID: 3165948163788554065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile Deflection Barrier_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3d14fcb1cf00eb0800000000000000
+      internalID: -4755524010131729483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 19fa3fed6b7a90746bd10e71805071de
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Projectile Deflection Barrier_0: 6330077060157389541
+      Projectile Deflection Barrier_1: -7223038688408312869
+      Projectile Deflection Barrier_2: -636484002797832450
+      Projectile Deflection Barrier_3: -6616564090287484421
+      Projectile Deflection Barrier_4: 3165948163788554065
+      Projectile Deflection Barrier_5: -4755524010131729483
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

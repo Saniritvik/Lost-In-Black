@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 36852aa389cd2e14ab7a40aaaffc9daf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 173110054646237789
+    second: V Star Scrap Variation 1 (V2)_0
+  - first:
+      213: -8369333645596222730
+    second: V Star Scrap Variation 1 (V2)_1
+  - first:
+      213: 8542973693158995268
+    second: V Star Scrap Variation 1 (V2)_2
+  - first:
+      213: 2359452200779081116
+    second: V Star Scrap Variation 1 (V2)_3
+  - first:
+      213: -431229952736967512
+    second: V Star Scrap Variation 1 (V2)_4
+  - first:
+      213: 7651056151338555911
+    second: V Star Scrap Variation 1 (V2)_5
+  - first:
+      213: 3299265842263523630
+    second: V Star Scrap Variation 1 (V2)_6
+  - first:
+      213: -8943183261359187813
+    second: V Star Scrap Variation 1 (V2)_7
+  - first:
+      213: -596617180513173870
+    second: V Star Scrap Variation 1 (V2)_8
+  - first:
+      213: 257731705198849868
+    second: V Star Scrap Variation 1 (V2)_9
+  - first:
+      213: -348884494013758242
+    second: V Star Scrap Variation 1 (V2)_10
+  - first:
+      213: -4269783807415863418
+    second: V Star Scrap Variation 1 (V2)_11
+  - first:
+      213: 4262728764721932312
+    second: V Star Scrap Variation 1 (V2)_12
+  - first:
+      213: 2415516403986670798
+    second: V Star Scrap Variation 1 (V2)_13
+  - first:
+      213: 1219304705596291199
+    second: V Star Scrap Variation 1 (V2)_14
+  - first:
+      213: 6881085898952897821
+    second: V Star Scrap Variation 1 (V2)_15
+  - first:
+      213: -8524604349231790722
+    second: V Star Scrap Variation 1 (V2)_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: V Star Scrap Variation 1 (V2)_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 133
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5acc327da2076200800000000000000
+      internalID: 173110054646237789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: V Star Scrap Variation 1 (V2)_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 133
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa138754672adb80800000000000000
+      internalID: -8369333645596222730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: V Star Scrap Variation 1 (V2)_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 133
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445bf32bf4dbe8670800000000000000
+      internalID: 8542973693158995268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: V Star Scrap Variation 1 (V2)_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 133
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9563f396457eb020800000000000000
+      internalID: 2359452200779081116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: V Star Scrap Variation 1 (V2)_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 101
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4ca9a84a6f30af0800000000000000
+      internalID: -431229952736967512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: V Star Scrap Variation 1 (V2)_5
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 101
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a1a1958030e2a60800000000000000
+      internalID: 7651056151338555911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: V Star Scrap Variation 1 (V2)_6
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 101
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2182b3adc859cd20800000000000000
+      internalID: 3299265842263523630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: V Star Scrap Variation 1 (V2)_7
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 101
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b985771f43e63e380800000000000000
+      internalID: -8943183261359187813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: V Star Scrap Variation 1 (V2)_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 69
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29efd98d5d368b7f0800000000000000
+      internalID: -596617180513173870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: V Star Scrap Variation 1 (V2)_9
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 69
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4fabbfce95a39300800000000000000
+      internalID: 257731705198849868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: V Star Scrap Variation 1 (V2)_10
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 69
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed40ba2b663882bf0800000000000000
+      internalID: -348884494013758242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: V Star Scrap Variation 1 (V2)_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 69
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687334bdf3eaeb4c0800000000000000
+      internalID: -4269783807415863418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: V Star Scrap Variation 1 (V2)_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 37
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81827130a31482b30800000000000000
+      internalID: 4262728764721932312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: V Star Scrap Variation 1 (V2)_13
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 37
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec421c81f53a58120800000000000000
+      internalID: 2415516403986670798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: V Star Scrap Variation 1 (V2)_14
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 37
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78770a6b27dbe010800000000000000
+      internalID: 1219304705596291199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: V Star Scrap Variation 1 (V2)_15
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 37
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d157904ea278e7f50800000000000000
+      internalID: 6881085898952897821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: V Star Scrap Variation 1 (V2)_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 5
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e750a49728582b980800000000000000
+      internalID: -8524604349231790722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      V Star Scrap Variation 1 (V2)_0: 173110054646237789
+      V Star Scrap Variation 1 (V2)_1: -8369333645596222730
+      V Star Scrap Variation 1 (V2)_10: -348884494013758242
+      V Star Scrap Variation 1 (V2)_11: -4269783807415863418
+      V Star Scrap Variation 1 (V2)_12: 4262728764721932312
+      V Star Scrap Variation 1 (V2)_13: 2415516403986670798
+      V Star Scrap Variation 1 (V2)_14: 1219304705596291199
+      V Star Scrap Variation 1 (V2)_15: 6881085898952897821
+      V Star Scrap Variation 1 (V2)_16: -8524604349231790722
+      V Star Scrap Variation 1 (V2)_2: 8542973693158995268
+      V Star Scrap Variation 1 (V2)_3: 2359452200779081116
+      V Star Scrap Variation 1 (V2)_4: -431229952736967512
+      V Star Scrap Variation 1 (V2)_5: 7651056151338555911
+      V Star Scrap Variation 1 (V2)_6: 3299265842263523630
+      V Star Scrap Variation 1 (V2)_7: -8943183261359187813
+      V Star Scrap Variation 1 (V2)_8: -596617180513173870
+      V Star Scrap Variation 1 (V2)_9: 257731705198849868
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
