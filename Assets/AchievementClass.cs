@@ -1,4 +1,3 @@
-using Microsoft.Unity.VisualStudio.Editor;
 using NUnit.Framework;
 using System.Runtime;
 using UnityEngine;

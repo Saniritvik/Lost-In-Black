@@ -1,7 +1,6 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using System.Collections;
-using Microsoft.Unity.VisualStudio.Editor;
 using UnityEngine.UI;
 using UnityEngine.UIElements;
 using TMPro;

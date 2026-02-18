@@ -488,7 +488,6 @@ GameObject:
   - component: {fileID: 66301086}
   - component: {fileID: 66301085}
   - component: {fileID: 66301084}
-  - component: {fileID: 66301088}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -614,18 +613,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &66301088
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 66301083}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4b8c72e389d4b1d4cab8ab9702b30162, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &75880360
 GameObject:
   m_ObjectHideFlags: 0
@@ -1085,7 +1072,6 @@ GameObject:
   - component: {fileID: 140346070}
   - component: {fileID: 140346069}
   - component: {fileID: 140346072}
-  - component: {fileID: 140346073}
   - component: {fileID: 140346074}
   m_Layer: 5
   m_Name: Canvas
@@ -1215,18 +1201,6 @@ MonoBehaviour:
   advanceDropDown: {fileID: 890955940}
   OpDelay: 0.8
   CloseDelay: 0.4
---- !u!114 &140346073
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 140346067}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4b8c72e389d4b1d4cab8ab9702b30162, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &140346074
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2214,7 +2188,6 @@ GameObject:
   - component: {fileID: 288686290}
   - component: {fileID: 288686295}
   - component: {fileID: 288686296}
-  - component: {fileID: 288686297}
   - component: {fileID: 288686298}
   - component: {fileID: 288686301}
   - component: {fileID: 288686299}
@@ -2383,18 +2356,6 @@ MonoBehaviour:
   crest: {fileID: 0}
   emblem: {fileID: 0}
   searchName: 
---- !u!114 &288686297
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 288686288}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4b8c72e389d4b1d4cab8ab9702b30162, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &288686298
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2810,7 +2771,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 291880201}
-  - component: {fileID: 291880202}
   m_Layer: 0
   m_Name: Border
   m_TagString: Untagged
@@ -2840,18 +2800,6 @@ Transform:
   - {fileID: 87783978}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &291880202
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 291880200}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4b8c72e389d4b1d4cab8ab9702b30162, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &292673498
 GameObject:
   m_ObjectHideFlags: 0
@@ -2919,7 +2867,7 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 16777215
+    rgba: 4294967295
   m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
@@ -3374,6 +3322,12 @@ PlayableDirector:
   - key: {fileID: 2794969483904928585, guid: c78ef646531932a4283ac70ccfdbc076, type: 2}
     value: {fileID: 1380390488}
   - key: {fileID: -8162930330232749755, guid: c78ef646531932a4283ac70ccfdbc076, type: 2}
+    value: {fileID: 638876648}
+  - key: {fileID: 7138615283412968773, guid: c78ef646531932a4283ac70ccfdbc076, type: 2}
+    value: {fileID: 1380390488}
+  - key: {fileID: 6460521502853913780, guid: c78ef646531932a4283ac70ccfdbc076, type: 2}
+    value: {fileID: 1380390488}
+  - key: {fileID: -6321648854445370807, guid: c78ef646531932a4283ac70ccfdbc076, type: 2}
     value: {fileID: 638876648}
   m_ExposedReferences:
     m_References: []
@@ -4498,7 +4452,7 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 16777215
+    rgba: 4294967295
   m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
@@ -6261,7 +6215,7 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 16777215
+    rgba: 4294967295
   m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
@@ -9008,8 +8962,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4278190080
-  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -12139,7 +12093,7 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 16777215
+    rgba: 4294967295
   m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
@@ -13589,11 +13543,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9132633388123679212, guid: e86425463d0770a4fa7c859733f63728, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 9.000003
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 9132633388123679212, guid: e86425463d0770a4fa7c859733f63728, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
+      value: 90
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 4575046227444256356, guid: e86425463d0770a4fa7c859733f63728, type: 3}
@@ -13603,6 +13557,7 @@ PrefabInstance:
     - {fileID: 5105747405778792621, guid: e86425463d0770a4fa7c859733f63728, type: 3}
     - {fileID: 6138713168056236897, guid: e86425463d0770a4fa7c859733f63728, type: 3}
     - {fileID: 2748949779952636833, guid: e86425463d0770a4fa7c859733f63728, type: 3}
+    - {fileID: 5401660151412821211, guid: e86425463d0770a4fa7c859733f63728, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents:

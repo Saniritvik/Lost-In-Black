@@ -2210,7 +2210,7 @@ MonoBehaviour:
   roundWord: Round
   roundTrigger: 1
   timer: 5
-  waves: 1
+  waves: 5
   waveCount: 1
   roundEnd: 0
   shopping: 0

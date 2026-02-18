@@ -1,6 +1,5 @@
 using TMPro;
 using Unity.VisualScripting;
-using UnityEditor.SceneManagement;
 using UnityEngine;
 using UnityEngine.Playables;
 using UnityEngine.Rendering.Universal;
